@@ -15,11 +15,11 @@ export default {
 .search
     height :.72rem
     background :$bgColor
-    padding:.1rem
+    padding:0 .1rem
     .search-input
         width:100%
-        height :0.62rem
-        line-height:0.62rem
+        height :.62rem
+        line-height:.62rem
         text-align :center
         color:#666
         box-sizing :border-box
